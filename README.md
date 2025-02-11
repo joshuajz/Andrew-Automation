@@ -18,7 +18,9 @@ To run the program:
 4. Type `python main.py` to run the program.
 5. Input the required information, if no favicon is provided, a full file path to an image will be required.
 6. Output file will be zipped within "Andrew-Automation"
-   **Note:** Currently the unzipped version of the final product is automatically deleted.
+
+**Note:** Currently the unzipped version of the final product is automatically deleted.
+**Note2:** The `templates` folder contains the `manifest.json` file that the output slightly modifies. If you change the `manifest.json` template, it will change for all future outputs.
 
 # Dependencies
 
