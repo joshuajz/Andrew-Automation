@@ -1,6 +1,6 @@
 # Install Instructions
 
-1. Download (Python)[https://www.python.org/downloads/] for your device.
+1. Download [https://www.python.org/downloads/](Python) for your device.
 2. During the python install instructions, ensure to include the "Add to Path" option.
 3. Open a terminal (Windows key + Powershell) if unsure. (if you're a developer, I suggest installing the dependencies into a virtualenv).
 4. Type `pip3 install requests pillow` and wait for the dependencies to install.
